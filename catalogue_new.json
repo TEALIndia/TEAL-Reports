@@ -8,6 +8,14 @@
     "archive": false
   },
   {
+    "title": "Q1 Mortgage Report 2022 -  MMR - Pune",
+    "link": "mmr-pune-22-q1-mortgage-report",
+    "preview_no": 25,
+    "desc": "TEAL Analytics reports analyse quarterly  real estate activity including sale registrations, leasing activity, price trends, geographic trends and policy updates at a city and micro-market levels.",
+    "type": "Mortgage",
+    "archive": false
+  },
+  {
     "title": "Bengaluru, Telangana, Tamil Nadu -  Sale & Lease Report, Q4 2021",
     "link": "blr-telengana-tn-q4-transactions-report",
     "preview_no": 16,
@@ -53,7 +61,7 @@
     "preview_no": 20,
     "desc": "TEAL Analytics reports analyse quarterly  real estate activity including sale registrations, leasing activity, price trends, geographic trends and policy updates at a city and micro-market levels.",
     "type": "Mortgage",
-    "archive": false
+    "archive": true
   },
   {
     "title": "South India Mortgage Report - 2021 Q3",
