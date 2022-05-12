@@ -1,5 +1,13 @@
 [
   {
+    "title":"South India Sale Lease Report Q1 2022", 
+    "link":"south-india-transactions-report-q1-2022",
+    "preview_no":15,
+    "desc":"TEAL Analytics reports analyse quarterly  real estate activity including sale registrations, leasing activity, price trends, geographic trends and policy updates at a city and micro-market levels.",
+    "type":"Sales & Lease",
+    "archive":false
+  },
+  {
     "title": "Q1 2022 MMR-PUNE Sale Lease Report",
     "link": "mmr-pune-22-q1-transactions-report",
     "preview_no": 21,
@@ -45,7 +53,7 @@
     "preview_no": 16,
     "desc": "TEAL Analytics reports analyse quarterly  real estate activity including sale registrations, leasing activity, price trends, geographic trends and policy updates at a city and micro-market levels.",
     "type": "Sales & Lease",
-    "archive": false
+    "archive": true
   },
   {
     "title": "Bengaluru & Telangana - Mortgage Report, Q4 2021",
