@@ -1,5 +1,13 @@
 [
   {
+    "title": "Delhi & UP Sale & Lease Report Q1 2022",
+    "link": "delhi-up-transactions-report-q1-2022",
+    "preview_no": 15,
+    "desc": "TEAL Analytics reports analyse quarterly  real estate activity including sale registrations, leasing activity, price trends, geographic trends and policy updates at a city and micro-market levels.",
+    "type": "Sales & Lease",
+    "archive": false
+  },
+  {
     "title": "South India Sale Lease Report Q1 2022",
     "link": "south-india-transactions-report-q1-2022",
     "preview_no": 15,
@@ -45,7 +53,7 @@
     "preview_no": 12,
     "desc": "TEAL Analytics reports analyse quarterly  real estate activity including sale registrations, leasing activity, price trends, geographic trends and policy updates at a city and micro-market levels.",
     "type": "Sales & Lease",
-    "archive": false
+    "archive": true
   },
   {
     "title": "MMR & Pune - Property Sale and Lease Transactions 2021 Q4",
