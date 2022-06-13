@@ -2,7 +2,7 @@
   {
     "title": "Delhi & UP Sale & Lease Report Q1 2022",
     "link": "delhi-up-transactions-report-q1-2022",
-    "preview_no": 15,
+    "preview_no": 3,
     "desc": "TEAL Analytics reports analyse quarterly  real estate activity including sale registrations, leasing activity, price trends, geographic trends and policy updates at a city and micro-market levels.",
     "type": "Sales & Lease",
     "archive": false
@@ -10,7 +10,7 @@
   {
     "title": "South India Sale Lease Report Q1 2022",
     "link": "south-india-transactions-report-q1-2022",
-    "preview_no": 15,
+    "preview_no": 3,
     "desc": "TEAL Analytics reports analyse quarterly  real estate activity including sale registrations, leasing activity, price trends, geographic trends and policy updates at a city and micro-market levels.",
     "type": "Sales & Lease",
     "archive": false
@@ -18,7 +18,7 @@
   {
     "title": "South India Mortgage Report - 2022 Q1",
     "link": "south-india-mortgage-report-q1-2022",
-    "preview_no": 14,
+    "preview_no": 3,
     "desc": "TEAL Analytics reports analyse quarterly  real estate activity including sale registrations, leasing activity, price trends, geographic trends and policy updates at a city and micro-market levels.",
     "type": "Mortgage",
     "archive": false
@@ -26,7 +26,7 @@
   {
     "title": "Q1 2022 MMR-PUNE Sale Lease Report",
     "link": "mmr-pune-22-q1-transactions-report",
-    "preview_no": 21,
+    "preview_no": 3,
     "desc": "TEAL Analytics reports analyse quarterly  real estate activity including sale registrations, leasing activity, price trends, geographic trends and policy updates at a city and micro-market levels.",
     "type": "Sales & Lease",
     "archive": false
@@ -34,7 +34,7 @@
   {
     "title": "Q1 Mortgage Report 2022 -  MMR - Pune",
     "link": "mmr-pune-22-q1-mortgage-report",
-    "preview_no": 25,
+    "preview_no": 3,
     "desc": "TEAL Analytics reports analyse quarterly  real estate activity including sale registrations, leasing activity, price trends, geographic trends and policy updates at a city and micro-market levels.",
     "type": "Mortgage",
     "archive": false
@@ -42,7 +42,7 @@
   {
     "title": "Bengaluru, Telangana, Tamil Nadu -  Sale & Lease Report, Q4 2021",
     "link": "blr-telengana-tn-q4-transactions-report",
-    "preview_no": 16,
+    "preview_no": 3,
     "desc": "TEAL Analytics reports analyse quarterly  real estate activity including sale registrations, leasing activity, price trends, geographic trends and policy updates at a city and micro-market levels.",
     "type": "Sales & Lease",
     "archive": false
@@ -50,7 +50,7 @@
   {
     "title": "Delhi, Noida, Ghaziabad - Sale & Lease Report, Q4 2021",
     "link": "delhi-ncr-analytics-report-q4",
-    "preview_no": 12,
+    "preview_no": 3,
     "desc": "TEAL Analytics reports analyse quarterly  real estate activity including sale registrations, leasing activity, price trends, geographic trends and policy updates at a city and micro-market levels.",
     "type": "Sales & Lease",
     "archive": true
@@ -58,7 +58,7 @@
   {
     "title": "MMR & Pune - Property Sale and Lease Transactions 2021 Q4",
     "link": "mmr-pune-q4-transactions-report",
-    "preview_no": 17,
+    "preview_no": 3,
     "desc": "TEAL Analytics reports analyse quarterly  real estate activity including sale registrations, leasing activity, price trends, geographic trends and policy updates at a city and micro-market levels.",
     "type": "Sales & Lease",
     "archive": true
@@ -66,7 +66,7 @@
   {
     "title": "South India Sales & Lease Report - 2021 Q3",
     "link": "south-india-transactions-report-q3",
-    "preview_no": 16,
+    "preview_no": 3,
     "desc": "TEAL Analytics reports analyse quarterly  real estate activity including sale registrations, leasing activity, price trends, geographic trends and policy updates at a city and micro-market levels.",
     "type": "Sales & Lease",
     "archive": true
@@ -74,7 +74,7 @@
   {
     "title": "Bengaluru & Telangana - Mortgage Report, Q4 2021",
     "link": "blr-telengana-q4-mortgage-report",
-    "preview_no": 11,
+    "preview_no": 3,
     "desc": "TEAL Analytics reports analyse quarterly  real estate activity including sale registrations, leasing activity, price trends, geographic trends and policy updates at a city and micro-market levels.",
     "type": "Mortgage",
     "archive": false
@@ -82,7 +82,7 @@
   {
     "title": "MMR-Pune Mortgage Report - Q4 2021",
     "link": "mmr-pune-q4-mortgage-report",
-    "preview_no": 20,
+    "preview_no": 3,
     "desc": "TEAL Analytics reports analyse quarterly  real estate activity including sale registrations, leasing activity, price trends, geographic trends and policy updates at a city and micro-market levels.",
     "type": "Mortgage",
     "archive": true
@@ -90,7 +90,7 @@
   {
     "title": "South India Mortgage Report - 2021 Q3",
     "link": "south-india-mortgage-report-q3",
-    "preview_no": 10,
+    "preview_no": 3,
     "desc": "TEAL Analytics reports analyse quarterly  real estate activity including sale registrations, leasing activity, price trends, geographic trends and policy updates at a city and micro-market levels.",
     "type": "Mortgage",
     "archive": true
@@ -98,7 +98,7 @@
   {
     "title": "TEAL Analytics - Affordable Housing Report",
     "link": "affordable-housing-report",
-    "preview_no": 13,
+    "preview_no": 3,
     "desc": "TEAL Analytics reports analyse quarterly  real estate activity including sale registrations, leasing activity, price trends, geographic trends and policy updates at a city and micro-market levels.",
     "type": "Special Reports",
     "archive": false
@@ -106,7 +106,7 @@
   {
     "title": "Bengaluru - Sale, Lease & Mortgage Report, Q4 2021",
     "link": "bengaluru-real-estate-report-q4",
-    "preview_no": 10,
+    "preview_no": 3,
     "desc": "TEAL Analytics reports analyse quarterly  real estate activity including sale registrations, leasing activity, price trends, geographic trends and policy updates at a city and micro-market levels.",
     "type": "Special Reports",
     "archive": false
@@ -114,7 +114,7 @@
   {
     "title": "TEAL Analytics - Delhi Covid-19 Impact & Recovery Report (2020 - 2021)",
     "link": "delhi-covid-19-impact-recovery-report",
-    "preview_no": 9,
+    "preview_no": 3,
     "desc": "TEAL Analytics reports analyse quarterly  real estate activity including sale registrations, leasing activity, price trends, geographic trends and policy updates at a city and micro-market levels.",
     "type": "Special Reports",
     "archive": false
@@ -122,7 +122,7 @@
   {
     "title": "TEAL Analytics - Pan India Covid-19 Impact & Recovery Report (2020 - 2021)",
     "link": "covid-19-impact-recovery-report",
-    "preview_no": 11,
+    "preview_no": 3,
     "desc": "TEAL Analytics reports analyse quarterly  real estate activity including sale registrations, leasing activity, price trends, geographic trends and policy updates at a city and micro-market levels.",
     "type": "Special Reports",
     "archive": false
@@ -130,7 +130,7 @@
   {
     "title": "Delhi, Noida, Ghaziabad Sale-Lease Q3 Report",
     "link": "delhi-ncr-analytics-report-q3",
-    "preview_no": 11,
+    "preview_no": 3,
     "desc": "TEAL Analytics reports analyse quarterly  real estate activity including sale registrations, leasing activity, price trends, geographic trends and policy updates at a city and micro-market levels.",
     "type": "Sales & Lease",
     "archive": true
@@ -138,7 +138,7 @@
   {
     "title": "Mumbai Metropolitan Region & Pune Mortgage Report - 2021 Q3",
     "link": "mmr-pune-q3-mortgage-report",
-    "preview_no": 15,
+    "preview_no": 3,
     "desc": "TEAL Analytics reports analyse quarterly  real estate activity including sale registrations, leasing activity, registered mortgage transactions, price trends, geographic trends and policy updates at a city and micro-market levels.",
     "type": "Mortgage",
     "archive": true
@@ -146,7 +146,7 @@
   {
     "title": "MMR & Pune - Property Sale and Lease Transactions 2021 Q3",
     "link": "mmr-pune-q3-transactions-report",
-    "preview_no": 16,
+    "preview_no": 3,
     "desc": "TEAL Analytics reports analyse quarterly  real estate activity including sale registrations, leasing activity, price trends, geographic trends and policy updates at a city and micro-market levels.",
     "type": "Sales & Lease",
     "archive": true
@@ -154,7 +154,7 @@
   {
     "title": "Delhi NCR - Property Sale and Lease Transactions 2021 Q2",
     "link": "delhi-ncr-analytics-report-q2",
-    "preview_no": 11,
+    "preview_no": 3,
     "desc": "TEAL Analytics reports analyse quarterly  real estate activity including sale registrations, leasing activity, price trends, geographic trends and policy updates at a city and micro-market levels.",
     "type": "Sales & Lease",
     "archive": true
